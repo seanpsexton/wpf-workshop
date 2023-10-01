@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercise_6_Commands
 {
-    internal class MainViewModel : ViewModelBase
+    public class MainViewModel : ViewModelBase
     {
     }
 }
